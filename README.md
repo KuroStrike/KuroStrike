@@ -1,8 +1,8 @@
 # KuroStrike
 
-> ACTIVE DIRECTORY // POWERSHELL // TIER 0
+> **ACTIVE DIRECTORY // POWERSHELL // TIER 0**
 
-
+```text
 ┌──────────────────────────────────────────────┐
 │ KUROSTRIKE                                   │
 │                                              │
